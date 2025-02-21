@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://almsndn.github.io/</loc>
-    <lastmod>2025-02-21T00:33:01+08:00</lastmod>
+    <lastmod>2025-02-21T17:17:17+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -16,9 +16,12 @@
                 />
   </url><url>
     <loc>https://almsndn.github.io/p/myfirstpost/</loc>
-    <lastmod>2025-02-21T00:33:01+08:00</lastmod>
+    <lastmod>2025-02-21T17:17:17+08:00</lastmod>
   </url><url>
     <loc>https://almsndn.github.io/post/</loc>
+    <lastmod>2025-02-21T17:17:17+08:00</lastmod>
+  </url><url>
+    <loc>https://almsndn.github.io/p/markdown-and-latex-grammar-summary/</loc>
     <lastmod>2025-02-21T00:33:01+08:00</lastmod>
   </url><url>
     <loc>https://almsndn.github.io/categories/</loc>
