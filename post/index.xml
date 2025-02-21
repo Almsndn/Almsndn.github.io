@@ -21,10 +21,10 @@
         <pubDate>Fri, 21 Feb 2025 00:33:01 +0800</pubDate>
         
         <guid>https://almsndn.github.io/p/myfirstpost/</guid>
-        <description>&lt;h2 id=&#34;hello-world&#34;&gt;Hello World！
+        <description>&lt;center&gt;&lt;font face=&#34;楷体&#34; size=5&gt;小李の博客&lt;/font&gt;&lt;/center&gt;
+&lt;h2 id=&#34;hello-world&#34;&gt;Hello World！
 &lt;/h2&gt;&lt;h2 id=&#34;naruto&#34;&gt;NARUTO
-&lt;/h2&gt;&lt;center&gt;&lt;font face=&#34;楷体&#34; size=5&gt;小李の博客&lt;/font&gt;&lt;/center&gt;
-&lt;h2 id=&#34;公式&#34;&gt;公式
+&lt;/h2&gt;&lt;h2 id=&#34;公式&#34;&gt;公式
 &lt;/h2&gt;$$\lim_{x \to \infin}\frac{sin(x)}{cos(3x+\frac{3}{4})}$$$$
 \begin{Bmatrix}
    a &amp; b \\
