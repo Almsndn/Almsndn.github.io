@@ -7,15 +7,7 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Li | 狼穴杂谈</copyright>
-        <lastBuildDate>Fri, 21 Feb 2025 17:17:17 +0800</lastBuildDate><atom:link href="https://almsndn.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>MyFirstPost</title>
-        <link>https://almsndn.github.io/p/myfirstpost/</link>
-        <pubDate>Fri, 21 Feb 2025 17:17:17 +0800</pubDate>
-        
-        <guid>https://almsndn.github.io/p/myfirstpost/</guid>
-        <description></description>
-        </item>
-        <item>
+        <lastBuildDate>Fri, 21 Feb 2025 00:33:01 +0800</lastBuildDate><atom:link href="https://almsndn.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Markdown-And-LaTex-Grammar-Summary</title>
         <link>https://almsndn.github.io/p/markdown-and-latex-grammar-summary/</link>
         <pubDate>Fri, 21 Feb 2025 00:33:01 +0800</pubDate>
@@ -60,7 +52,7 @@ f\left(
 $$$$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$&lt;p&gt;&lt;em&gt;加上\displaystyle即可在行内渲染格式正确&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Compare $\displaystyle \lim_{t \to 0} \int_t^1 f(t), dt$
 versus $\lim_{t \to 0} \int_t^1 f(t), dt$.&lt;/p&gt;
-&lt;p&gt;E=mc^2&lt;/p&gt;
+&lt;p&gt;$E=mc^2$&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;加粗&lt;/strong&gt; ctrl+b加粗或不加粗&lt;br&gt;
 &lt;em&gt;倾斜&lt;/em&gt;  ctrl+i倾斜或不倾斜&lt;/p&gt;
 &lt;h2 id=&#34;有序列表&#34;&gt;有序列表
