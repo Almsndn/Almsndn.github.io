@@ -16,7 +16,11 @@
         <description>&lt;center&gt;&lt;font face=&#34;楷体&#34; size=6&gt;小李の博客&lt;/font&gt;&lt;/center&gt;
 &lt;h2 id=&#34;naruto&#34;&gt;NARUTO
 &lt;/h2&gt;&lt;h2 id=&#34;公式&#34;&gt;公式
-&lt;/h2&gt;$$\lim_{x \to \infin}\frac{sin(x)}{cos(3x+\frac{3}{4})}$$$$
+&lt;/h2&gt;&lt;p&gt;在一段文字中自动插入公式，只需按&lt;em&gt;&lt;strong&gt;ctrl+m&lt;/strong&gt;&lt;/em&gt;（产生2个美元符号）即可，例如： $\displaystyle \lim_{x \to \infin}\frac{cos(x)}{sin(x)}$。但是CTRL+M连按2下，会产生4个美元符号，单独一段的公式&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;加上\displaystyle即可在行内渲染格式正确&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Compare $\displaystyle \lim_{t \to 0} \int_t^1 f(t), dt$
+versus $\lim_{t \to 0} \int_t^1 f(t), dt$.&lt;/p&gt;
+$$\lim_{x \to \infin}\frac{sin(x)}{cos(3x+\frac{3}{4})}$$$$
 \begin{Bmatrix}
    a &amp; b \\
    c &amp; d
@@ -49,10 +53,7 @@ f\left(
  }+a
    \right]^{3/2}
 \right)
-$$$$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$&lt;p&gt;&lt;em&gt;加上\displaystyle即可在行内渲染格式正确&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Compare $\displaystyle \lim_{t \to 0} \int_t^1 f(t), dt$
-versus $\lim_{t \to 0} \int_t^1 f(t), dt$.&lt;/p&gt;
-&lt;p&gt;$E=mc^2$&lt;/p&gt;
+$$$$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$&lt;p&gt;$E=mc^2$&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;加粗&lt;/strong&gt; ctrl+b加粗或不加粗&lt;br&gt;
 &lt;em&gt;倾斜&lt;/em&gt;  ctrl+i倾斜或不倾斜&lt;/p&gt;
 &lt;h2 id=&#34;有序列表&#34;&gt;有序列表
@@ -82,7 +83,6 @@ versus $\lim_{t \to 0} \int_t^1 f(t), dt$.&lt;/p&gt;
 	
 &gt;&lt;br&gt;
 &lt;em&gt;ctrl+alt+v插入已复制的图片，并且会在当前文件夹下创建图片&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;在一段文字中自动插入公式，只需按&lt;em&gt;&lt;strong&gt;ctrl+m&lt;/strong&gt;&lt;/em&gt;（产生2个美元符号）即可，例如： $\displaystyle \lim_{x \to \infin}\frac{cos(x)}{sin(x)}$。但是CTRL+M连按2下，会产生4个美元符号，单独一段的公式&lt;/p&gt;
 &lt;h2 id=&#34;表格按住altshiftf即可格式化表格代码&#34;&gt;表格（按住alt+shift+f即可格式化表格代码）
 &lt;/h2&gt;&lt;p&gt;&lt;em&gt;在第二行减号左右两边加英文冒号代表左右对齐。左面加：左对齐，右面加：右对齐，两边都加：居中对齐。&lt;strong&gt;默认为左对齐&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;table&gt;
