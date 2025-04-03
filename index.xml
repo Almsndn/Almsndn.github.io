@@ -172,21 +172,6 @@ $$$$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$&lt;p&gt;$E=mc^2$&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;blockquote class=&#34;alert alert-note&#34;&gt;
     &lt;p&gt;这是markdown的引用块语法&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;!!! note&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;pass
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;!!! tip&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;pass
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;!!! warning&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;pass
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;!!! error&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;pass
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;!!! example&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;pass
-&lt;/code&gt;&lt;/pre&gt;
 </description>
         </item>
         <item>
