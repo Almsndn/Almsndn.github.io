@@ -95,7 +95,8 @@ f\left(
 $$$$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$&lt;p&gt;$E=mc^2$&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;加粗&lt;/strong&gt; ctrl+b加粗或不加粗&lt;br&gt;
 &lt;em&gt;倾斜&lt;/em&gt;  ctrl+i倾斜或不倾斜&lt;/p&gt;
-&lt;h2 id=&#34;有序列表&#34;&gt;有序列表
+&lt;h2 id=&#34;换行可以用两个空格或标签&#34;&gt;换行可以用两个空格或&lt;br&gt;标签
+&lt;/h2&gt;&lt;h2 id=&#34;有序列表&#34;&gt;有序列表
 &lt;/h2&gt;&lt;ol&gt;
 &lt;li&gt;1&lt;/li&gt;
 &lt;li&gt;2
@@ -156,7 +157,7 @@ $$$$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$&lt;p&gt;$E=mc^2$&lt;/p&gt;
 &lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-c++&#34; data-lang=&#34;c++&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;cp&#34;&gt;#include&amp;lt;iostream&amp;gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;cp&#34;&gt;&lt;/span&gt;&lt;span class=&#34;k&#34;&gt;using&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;namespace&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;std&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kt&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;main&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(){&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;helloworld&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;helloworld&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
@@ -171,8 +172,21 @@ $$$$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$&lt;p&gt;$E=mc^2$&lt;/p&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;blockquote class=&#34;alert alert-note&#34;&gt;
-    &lt;p&gt;这是markdown的引用块语法&lt;/p&gt;
-&lt;p&gt;hello~ 你好！&lt;/p&gt;&lt;/blockquote&gt;
+    &lt;p&gt;这是markdown的引用块语法&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h2 id=&#34;理想の世界&#34;&gt;理想の世界
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://almsndn.github.io/p/markdown-and-latex-grammar-summary/2025-07-21-15-21-30.png&#34;
+	width=&#34;248&#34;
+	height=&#34;369&#34;
+	srcset=&#34;https://almsndn.github.io/p/markdown-and-latex-grammar-summary/2025-07-21-15-21-30_hu_98a055e3ee7453c9.png 480w, https://almsndn.github.io/p/markdown-and-latex-grammar-summary/2025-07-21-15-21-30_hu_56fb1946848efd2a.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;67&#34;
+		data-flex-basis=&#34;161px&#34;
+	
+&gt;&lt;br&gt;
+虚幻的世界又有什么不好呢？&lt;/p&gt;
 </description>
         </item>
         <item>
