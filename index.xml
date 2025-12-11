@@ -7,7 +7,15 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Li | 狼穴杂谈</copyright>
-        <lastBuildDate>Mon, 29 Sep 2025 14:47:18 +0800</lastBuildDate><atom:link href="https://almsndn.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 11 Dec 2025 22:42:48 +0800</lastBuildDate><atom:link href="https://almsndn.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>人间清醒视频合集</title>
+        <link>https://almsndn.github.io/p/%E4%BA%BA%E9%97%B4%E6%B8%85%E9%86%92%E8%A7%86%E9%A2%91%E5%90%88%E9%9B%86/</link>
+        <pubDate>Thu, 11 Dec 2025 22:42:48 +0800</pubDate>
+        
+        <guid>https://almsndn.github.io/p/%E4%BA%BA%E9%97%B4%E6%B8%85%E9%86%92%E8%A7%86%E9%A2%91%E5%90%88%E9%9B%86/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>军训</title>
         <link>https://almsndn.github.io/p/%E5%86%9B%E8%AE%AD/</link>
         <pubDate>Mon, 29 Sep 2025 14:47:18 +0800</pubDate>
@@ -300,9 +308,11 @@ $$$$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$&lt;p&gt;$E=mc^2$&lt;/p&gt;
 &gt;&lt;/p&gt;
 &lt;h2 id=&#34;引用&#34;&gt;引用
 &lt;/h2&gt;&lt;blockquote&gt;
-&lt;p&gt;读一本好书，就是在和高尚的人谈话。 ——歌德&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;读一本好书，就是在和高尚的人谈话。 ——歌德&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;雇用制度对工人不利，但工人根本无力摆脱这个制度。 ——阮一峰&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;雇用制度对工人不利，但工人根本无力摆脱这个制度。 ——阮一峰&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;h2 id=&#34;2-markdown语法教程&#34;&gt;2 Markdown语法教程
 &lt;/h2&gt;&lt;h3 id=&#34;21-标题&#34;&gt;2.1 标题
 &lt;/h3&gt;&lt;p&gt;不同数量的&lt;code&gt;#&lt;/code&gt;可以完成不同的标题，如下：&lt;/p&gt;
@@ -344,9 +354,11 @@ $$$$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$&lt;p&gt;$E=mc^2$&lt;/p&gt;
 &lt;h3 id=&#34;25-引用&#34;&gt;2.5 引用
 &lt;/h3&gt;&lt;p&gt;引用的格式是在符号&lt;code&gt;&amp;gt;&lt;/code&gt;后面书写文字。如下：&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;读一本好书，就是在和高尚的人谈话。 ——歌德&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;读一本好书，就是在和高尚的人谈话。 ——歌德&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;雇用制度对工人不利，但工人根本无力摆脱这个制度。 ——阮一峰&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;雇用制度对工人不利，但工人根本无力摆脱这个制度。 ——阮一峰&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;h3 id=&#34;27-链接&#34;&gt;2.7 链接
 &lt;/h3&gt;&lt;p&gt;微信公众号仅支持公众号文章链接，即域名为&lt;code&gt;https://mp.weixin.qq.com/&lt;/code&gt;的合法链接。使用方法如下所示：&lt;/p&gt;
 &lt;p&gt;对于该论述，欢迎读者查阅之前发过的文章，&lt;a class=&#34;link&#34; href=&#34;https://mp.weixin.qq.com/s/s5IhxV2ooX3JN_X416nidA&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
@@ -409,7 +421,8 @@ $$$$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$&lt;p&gt;$E=mc^2$&lt;/p&gt;
 &lt;h2 id=&#34;3-特殊语法&#34;&gt;3. 特殊语法
 &lt;/h2&gt;&lt;h3 id=&#34;31-脚注&#34;&gt;3.1 脚注
 &lt;/h3&gt;&lt;blockquote&gt;
-&lt;p&gt;支持平台：微信公众号、知乎。&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;支持平台：微信公众号、知乎。&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;脚注与链接的区别如下所示：&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
@@ -429,7 +442,8 @@ $$$$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$&lt;p&gt;$E=mc^2$&lt;/p&gt;
 &lt;p&gt;脚注内容请拉到最下面观看。&lt;/p&gt;
 &lt;h3 id=&#34;32-代码块&#34;&gt;3.2 代码块
 &lt;/h3&gt;&lt;blockquote&gt;
-&lt;p&gt;支持平台：微信代码主题仅支持微信公众号！其他主题无限制。&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;支持平台：微信代码主题仅支持微信公众号！其他主题无限制。&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;如果在一个行内需要引用代码，只要用反引号引起来就好，如下：&lt;/p&gt;
 &lt;p&gt;Use the &lt;code&gt;printf()&lt;/code&gt; function.&lt;/p&gt;
 &lt;p&gt;在需要高亮的代码块的前一行及后一行使用三个反引号，同时&lt;strong&gt;第一行反引号后面表示代码块所使用的语言&lt;/strong&gt;，如下：&lt;/p&gt;
@@ -517,7 +531,8 @@ $$$$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$&lt;p&gt;$E=mc^2$&lt;/p&gt;
 &lt;/div&gt;&lt;p&gt;&lt;strong&gt;其他主题不带行号，可自定义是否换行，代码大小与当前编辑器一致&lt;/strong&gt;&lt;/p&gt;
 &lt;h3 id=&#34;33-数学公式&#34;&gt;3.3 数学公式
 &lt;/h3&gt;&lt;blockquote&gt;
-&lt;p&gt;支持平台：微信公众号、知乎。&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;支持平台：微信公众号、知乎。&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;行内公式使用方法，比如这个化学公式：$\ce{Hg^2+ -&amp;gt;[I-] HgI2 -&amp;gt;[I-] [Hg^{II}I4]^2-}$&lt;/p&gt;
 &lt;p&gt;块公式使用方法如下：&lt;/p&gt;
 $$H(D_2) = -\left(\frac{2}{4}\log_2 \frac{2}{4} + \frac{2}{4}\log_2 \frac{2}{4}\right) = 1$$&lt;p&gt;矩阵：&lt;/p&gt;
@@ -532,18 +547,21 @@ $$&lt;p&gt;公式由于微信不支持，目前的解决方案是转成 svg 放�
 &lt;p&gt;目前测试如果公式量过大，在 Chrome 下会存在粘贴后无响应，但是在 Firefox 中始终能够成功。&lt;/p&gt;
 &lt;h3 id=&#34;34-toc&#34;&gt;3.4 TOC
 &lt;/h3&gt;&lt;blockquote&gt;
-&lt;p&gt;支持平台：微信公众号、知乎。&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;支持平台：微信公众号、知乎。&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;TOC 全称为 Table of Content，列出全部标题。&lt;/p&gt;
 &lt;p&gt;[TOC]&lt;/p&gt;
 &lt;p&gt;由于微信只支持到二级列表，本工具仅支持二级标题和三级标题的显示。&lt;/p&gt;
 &lt;h3 id=&#34;35-注音符号&#34;&gt;3.5 注音符号
 &lt;/h3&gt;&lt;blockquote&gt;
-&lt;p&gt;支持平台：微信公众号。&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;支持平台：微信公众号。&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;支持注音符号，用法如下：&lt;/p&gt;
 &lt;p&gt;Markdown Nice 这么好用，简直是{喜大普奔|hē hē hē hē}呀！&lt;/p&gt;
 &lt;h3 id=&#34;36-横屏滑动幻灯片&#34;&gt;3.6 横屏滑动幻灯片
 &lt;/h3&gt;&lt;blockquote&gt;
-&lt;p&gt;支持平台：微信公众号。&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;支持平台：微信公众号。&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;通过&lt;code&gt;&amp;lt;![](url),![](url)&amp;gt;&lt;/code&gt;这种语法设置横屏滑动滑动片，具体用法如下：&lt;/p&gt;
 &lt;p&gt;&amp;lt;&lt;img src=&#34;https://markdown.com.cn/images/blue.jpg&#34;
 	
@@ -622,11 +640,13 @@ $$&lt;p&gt;公式由于微信不支持，目前的解决方案是转成 svg 放�
 &lt;h4 id=&#34;blockquote-without-attribution&#34;&gt;Blockquote without attribution
 &lt;/h4&gt;&lt;blockquote&gt;
 &lt;p&gt;Tiam, ad mint andaepu dandae nostion secatur sequo quae.
-&lt;strong&gt;Note&lt;/strong&gt; that you can use &lt;em&gt;Markdown syntax&lt;/em&gt; within a blockquote.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;strong&gt;Note&lt;/strong&gt; that you can use &lt;em&gt;Markdown syntax&lt;/em&gt; within a blockquote.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;h4 id=&#34;blockquote-with-attribution&#34;&gt;Blockquote with attribution
 &lt;/h4&gt;&lt;blockquote&gt;
 &lt;p&gt;Don&amp;rsquo;t communicate by sharing memory, share memory by communicating.&lt;br&gt;
-— &lt;cite&gt;Rob Pike&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/cite&gt;&lt;/p&gt;&lt;/blockquote&gt;
+— &lt;cite&gt;Rob Pike&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/cite&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;h2 id=&#34;tables&#34;&gt;Tables
 &lt;/h2&gt;&lt;p&gt;Tables aren&amp;rsquo;t part of the core Markdown spec, but Hugo supports supports them out-of-the-box.&lt;/p&gt;
 &lt;table&gt;
