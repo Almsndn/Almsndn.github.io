@@ -13,7 +13,7 @@
         <pubDate>Thu, 11 Dec 2025 22:42:48 +0800</pubDate>
         
         <guid>https://almsndn.github.io/p/%E4%BA%BA%E9%97%B4%E6%B8%85%E9%86%92%E8%A7%86%E9%A2%91%E5%90%88%E9%9B%86/</guid>
-        <description>&lt;p&gt;&lt;video controls src=&#34;videos/万一这个世界你忘了.mp4&#34; title=&#34;做自己，大胆拒绝别人！&#34;&gt;&lt;/video&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;video controls src=&#34;videos/万一这个世界你忘了.mp4&#34; title=&#34;做自己，大胆拒绝别人！&#34; webkit-playsinline=&#34;true&#34;&gt;&lt;/video&gt;&lt;/p&gt;
 </description>
         </item>
         <item>
@@ -82,9 +82,9 @@
 		data-flex-basis=&#34;185px&#34;
 	
 &gt;
-&lt;video controls src=&#34;vid/副连长飞高高.mp4&#34; title=&#34;副连长飞高高视频&#34;&gt;&lt;/video&gt;&lt;/p&gt;
+&lt;video controls src=&#34;vid/副连长飞高高.mp4&#34; title=&#34;副连长飞高高视频&#34; webkit-playsinline=&#34;true&#34;&gt;&lt;/video&gt;&lt;/p&gt;
 &lt;h2 id=&#34;当然少不了我们的排长啦&#34;&gt;&lt;span style=&#34;color: lightblue&#34;&gt;当然，少不了我们的排长啦&lt;/span&gt;
-&lt;/h2&gt;&lt;p&gt;&lt;video controls src=&#34;vid/排长飞高高.mp4&#34; title=&#34;排长飞高高&#34;&gt;&lt;/video&gt;&lt;/p&gt;
+&lt;/h2&gt;&lt;p&gt;&lt;video controls src=&#34;vid/排长飞高高.mp4&#34; title=&#34;排长飞高高&#34; webkit-playsinline=&#34;true&#34;&gt;&lt;/video&gt;&lt;/p&gt;
 </description>
         </item>
         <item>
